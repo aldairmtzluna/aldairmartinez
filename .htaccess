@@ -1,0 +1,7 @@
+Options All -indexes
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule   ^inicio$                              index.html
+RewriteRule   ^pam$                                 pam.html
+RewriteRule   ^allshop$                              allshop.html
