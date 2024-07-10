@@ -1,0 +1,10 @@
+Options All -indexes
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule   ^inicio$                              index.html
+RewriteRule   ^pam$                                 pam.html
+RewriteRule   ^allshop$                              allshop.html
+RewriteRule   ^dalton$                              dalton.html
+RewriteRule   ^scalperstudio$                              scalperstudio.html
+RewriteRule   ^soad$                              soad.html
