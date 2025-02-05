@@ -9,3 +9,4 @@ RewriteRule   ^dalton$                              dalton.html
 RewriteRule   ^scalperstudio$                              scalperstudio.html
 RewriteRule   ^soad$                              soad.html
 RewriteRule   ^siapco$                              siapco.html
+RewriteRule   ^GpsAnywhere$                              GpsAnywhere.html
